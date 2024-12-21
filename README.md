@@ -1,90 +1,135 @@
 java c
-BUSI2105-E1 
-A   LEVEL 2 MODULE, AUTUMN SEMESTER   2020-2021 
-QUANTITATIVE METHODS 2A 
-1.   To   stimulate   the   economy   after   COVID-19   pandemic,   many   cities   in   China   introduced   the   consumer coupon.   A researcher wants to study whether such consumer coupon has effectively   increased the number of households’ transactions within a given period of time, so   he collects   a sample of cities that have introduced the consumer coupon and a sample   of cities that   have   not. The   summary   statistics   are   listed   below   (assume   that the two   populations   are   normally   distributed)   :
+BUSI2105-E1
+A   LEVEL 2 MODULE, AUTUMN SEMESTER   2022-2023
+QUANTITATIVE   METHODS   2A
+1.    Suppose that one student wanted to study the following research question: whether investing   abroad can   help   improve   a firm’s   productivity?   He   randomly selected   12 firms,   and   recorded   their   productivities    before   and   after   they   started    investing   abroad    in   the   following   table   (assume that firm productivity follows normal distribution)   :
+Firm
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Before
+1.5
+1.2
+1.7
+1.5
+2.2
+2.3
+2.1
+1.3
+1.8
+1.9
+2.8
+2.5
+After
+1.8
+1.6
+1.9
+1.8
+2.7
+2.3
+2.6
+1.4
+2.3
+2.2
+3.2
+2.6(a)             At α    =   0.05, test whether productivities after firms invest abroad are higher than before.   (7 Marks)
+(b)             Does the approach adopted by this student perfectly answer his research question   : does   investing abroad help improve a firm’s productivity?    Provide some arguments that may   challenge his approach   and   result.       (4 Marks)
+2.   A    researcher    obtains    a      sample    with      number    of      observations   n   =    100   ,    and      population   standard   deviation σ    =   1   .   He   uses   this   sample   to   formulate   the   following   hypothesis   test:   H0: μ   ≤   1, and Ha : μ    >   1   .   He chooses the significance   level   α    =   0.05.
+(a)             What   is the   probability of   making   a   type   I   error?       (2 Marks)
+(b)             What   is the   power of the test   if the   true   population   mean μT       =    1.   1?       (5 Marks)
+(c)             How large   a sample   size   n    would   be   required   in   (b) so   as to   obtain   a   power   of the test   equal to   90%?       (4 Marks)
+3.    Suppose   that you want to   investigate   whether   movie   preference   is   associated   with   age. You   randomly surveyed   1000 people and obtained the following contingency table.
+   
+Movie
+Age
+Drama
+Action
+Comedy
+Others
+<20
+30
+100
+80
+30
+20~40
+40
+100
+130
+160
+>40
+140
+40
+70
+80
+At the   1% significance level, test whether movie preference   is   independent   of age.       (10 Marks)
+4.    Suppose that you want to   compare   innovation   behaviour   of   firms   across   different   ownership   in   a   given   industry.   You   randomly   selected   代 写BUSI2105 QUANTITATIVE METHODS 2A AUTUMN SEMESTER 2022-2023Python
+代做程序编程语言some   firms   in   this   industry,   and   recorded   the   number of patents they have applied within the same period of time. Assume that populations   are normally   distributed.
+   
+Firm Type
+   
+Private-owned
+State-owned
+Foreign-owned
+   
+   
+Number         of   patents
+1
+5
+12
+2
+2
+1
+7
+1
+4
+4
+3
+5
+1
+8
+1
+10
+1
+1
+1
+2
+3
+2
+7
+4
+5
+4
+5
+7
+4
+4
+(a)             At the   5% significance   level, test whether the   number   of   patents   is   the   same   between   Private-owned firms and State-owned firms.        (8 Marks)
+(b)             At the 5% significance level, test   whether   the   number   of   patents   is   the   same   across   all   types of firms.        (9 Marks)
+5.    (a)    Does   the   matrix      have   an    inverse?   If   your   answer   is   yes,   use   Gaussian
+elimination to find the inverse of this matrix. If your answer   is   no, explain   why.        (7 Marks)(b)   Suppose f(x,   y,   z)   =   x   2    + y   2    + z   2    + xy   + yz   + x   + z.    Find   the   first   order   conditions   and   use   Cramer’s   rule   to   solve   the   stationary   point(s).   Determine   whether   each   stationary   point   is   a   local minimum or   maximum, or   saddle.        (9 Marks)
+6.    Bob’s utility function is given by   ln   x   + lny   − k   2   , where x    and y    are consumptions of   two goods,   and k    is the number of   hours   spent   working.
+(a)             Optimize   this   utility   function   subject   to   budget   constraint px   +   qy   =   wk,   where p    and q   are   prices   of x    and y    respectively   and w    is   the   hourly   wage   rate.   Use   the   Lagrangian   approach to find the stationary point(s) of this optimization problem.       (4 Marks)
+(b)             Verify whether these stationary point(s) are   indeed   local   maximum.        (9 Marks)
 
-(a)             At α    =   0.01, test whether the consumer coupon   has effectively   increased the   number of   transactions (assume equal population variance). (10 Marks) 
-(b)             In   your opinion, what are the potential problems of   the above test of   difference in means 
-using   independent samples?   Explain why   it could   be   better to   use   matched samples   in   this case. (6 Marks) 
-2.    Suppose that you want to study the performances in QM2A of students from different   majors.   You randomly select some students and record their marks of   final exam in the following table,   categorizing these students according to the majors they belong to.
 
-Majors to which students belong 
-
-FAM 
-IBE 
-Others 
+7.    Integration
+(a)             Compute the   indefinite   integration(5 Marks)
+(b)             Determine the area to the left   of g(y)   =   3–   y2       and to the right   of x    =   −1   .   (6 Marks)
+8.    Difference   Equations.
+(a)               Solve 2xt    + xt−1      =   6    for x0      =   1.       (4 Marks)
+(b)             Solve 6xt      −   5xt−1      + xt−2      =   2    for x0       =   1   and x1    =   2   .           (7 Marks)
 
 
-Marks 
-Of 
-QM2A 
-80 
-72 
-66 
-73 
-85 
-90 
-88 
-72 
-67 
-79 
-71 
-67 
-70 
-85 
-89 
-84 
-73 
-66 
-78 
-75 
-69 
-70 
-77 
-80 
-76 
-75 
-75 
-(a)             If you want to   investigate   whether   the   mean   mark   of   students   is   the   same   across   the   above three majors, what test would you use? Explain the intuition of how such test can   achieve this research objective. (4 Marks)
-(b)             Based   on   the   above   data,   test   whether   the   mean   mark   is   the   same   across   different   majors at the 5%   significance   level. (12 Marks) 
-(c)             At the   10% significance   level, test whether the   variance   of   marks   is   the   same   between   FAM students and IBE   students. (8 Marks)
-3.   Consider the following   linear simultaneous equation system   in x,   y,   z.
-x − y + z = 1                                                                (1)
-2x + y + z = 4                                                               (2)
-5y + 2z = 7                                                                        (3)
-(a)             Express this system in matrix form. AX    =   b, with vector X   =   [x          y           代 写BUSI2105 QUANTITATIVE METHODS 2A AUTUMN SEMESTER 2020-2021Processing
-代做程序编程语言  z]T . Find the inverse   of the coefficient   matrix A    using   its determinant   and adjoint   matrix. (10 Marks) 
-(b)             Solve the system   using   Cramer’s   Rule.        (6 Marks)
-4.   A   household   has   the   utility   function U    =   ln(q1)   + ln(q2),   where q1       and q2       are   the   quantities   of   consumption of two types of goods. The budget constraint is given by p1   q1    + p2   q2    =   200, where   p1      and p2      are prices of q1       and q2       respectively. The household is a   price taker.
-(a)             Using the Lagrange function approach, determine the optimal quantities of   consumption   q1      and q2      that maximize the household’s utility   (taking the   prices   as given).       (6 Marks)
-(b)             Based    on    the      Bordered      Hessian    verify      that      your      solution      indeed      constitutes      a   maximum of   utility. (6 Marks) 
-(c)             If the   price   for   goods   1   increases   from p1       =   5    to p1(′)   =    10, other things   equal,   how   large is the loss of the household’s   consumer   surplus? (6 Marks) 
-5.   The inventory of a firm Qt       adjusts as   follows:
-Qt+1      =   PQ   t    +   τItwhere It       is the   investment that adds   new   inventory. P    captures the depreciation   of   inventory   such   that   each   period,   1   − P    share   of   the    inventory   is    lost,   and   0   < P < 1 . τ measures the efficiency of transforming investment into inventory, and 0 < τ < 1 .(a)             If investment    It       is a constant It      =   I(̅), express Qt      as a function of t    (assume that   the initial inventory   is Q0   ) (3 Marks)(b)             If It       =   I(̅)   + βQt ,   where β    captures   the    reaction   of   investment   to   the   current   inventory level, express Qt       as a function of t    (assume that Q0       is   known). (5 Marks) 
-(c)             Discuss the   dynamic trajectories   of Qt       that you   obtained   in   (a)   and   (b)   respectively. (6 Marks)
-6.   A    researcher    wants   to    investigate    whether   the    investment    preference    is    independent    of   gender. He randomly selects   1000 people and   makes   the   following   contingency table:
 
-Most Favorite Investment 
-Gender 
-Stock 
-Time Deposit 
-P2P 
-Trust Fund 
-Real Estate 
-Male 
-90 
-36 
-50 
-120 
-310 
-Female 
-50 
-63 
-30 
-80 
-171 
-At α   =   0.05, can the researcher conclude that the preference   is   associated with   gender        (12   Marks)
 
 
 
